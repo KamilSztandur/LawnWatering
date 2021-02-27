@@ -1,0 +1,17 @@
+#Lawn Watering - Application Properties
+#Thu Jun 04 11:31:30 CEST 2020
+window_icon_path=resources\\icon.png
+txt_path=output\\koordynaty.txt
+gif_path=output\\animation.gif
+resources_dirname=resources
+output_dirname=output
+frame_path=resources\\temp
+app_name=Lawn Watering Madness
+fullscreen=false
+frames_workdir=temp
+img_path=output\\trawnik.jpg
+Cycles_amount=0
+Input_filename=null
+success=false
+Cycles_period=0
+Reflections=true
